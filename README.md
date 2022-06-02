@@ -1,1 +1,1 @@
-# Slide Show Using (HTML, CSS JS) !
+# Slide Show Using (HTML, CSS, JS) !
